@@ -9,7 +9,7 @@ destination6="./lib/data/web_client.dart"
 mv -f ./update/AndroidManifest.xml ${destination1}
 echo "Updated ${destination1}"
 mv -f ./update/app.build.gradle ${destination2}
-echo "Updated ${destination2"
+echo "Updated ${destination2}"
 mv -f ./update/project.build.gradle ${destination3}
 echo "Updated ${destination3}"
 mv -f ./update/gradle-wrapper.properties ${destination4}
